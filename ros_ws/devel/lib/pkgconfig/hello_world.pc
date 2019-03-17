@@ -1,0 +1,8 @@
+prefix=/home/zhwwwwang/ros_ws/devel
+
+Name: hello_world
+Description: Description of hello_world
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zhwwwwang/ros_ws/devel/lib 
+Requires: 
